@@ -5,7 +5,7 @@ export default function App() {
     return (
         <View>
             <Text>1</Text>
-            <Text>3</Text>
+            <Text>4</Text>
         </View>
     )
 }
